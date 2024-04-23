@@ -1,0 +1,9 @@
+@import url('../global.css');
+
+#contact-us
+{
+    padding: 20px;
+    text-align: center;
+    background-color: var(--secondary-color);
+    color: var(--white-color);
+}

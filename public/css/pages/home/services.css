@@ -1,0 +1,17 @@
+@import url('../global.css');
+
+#services {
+    background-color: var(--tertiary-color);
+}
+.fixed-size {
+    width: 100%;
+    height: 250px;
+}
+
+.service-link {
+    text-decoration: none;
+}
+
+.service-link:hover {
+    cursor: pointer;
+}

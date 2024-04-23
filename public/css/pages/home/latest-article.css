@@ -1,0 +1,10 @@
+@import url('../global.css');
+
+#latest-articles {
+    background-color: var(--tertiary-color);
+}
+
+.fixed-size {
+    width: 100%;
+    height: 250px;
+}

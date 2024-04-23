@@ -1,0 +1,5 @@
+@import url('../global.css');
+
+.our-team {
+    background-color: var(--tertiary-color);
+}

@@ -1,0 +1,5 @@
+@include('pages.home.component.hero')
+@include('pages.home.component.about-us')
+@include('pages.home.component.services')
+@include('pages.home.component.testimonials')
+@include('pages.home.component.latest-article')

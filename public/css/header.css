@@ -1,0 +1,14 @@
+@import url('global.css');
+
+.navbar {
+    background-color: var(--secondary-color);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.8);
+}
+.navbar-nav {
+    gap: 3rem;
+}
+
+.menu-active {
+    color: black !important;
+    font-weight: bold;
+}

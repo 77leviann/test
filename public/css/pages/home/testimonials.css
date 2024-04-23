@@ -1,0 +1,5 @@
+@import url('../global.css');
+
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    background-color: var(--secondary-color);
+}

@@ -1,0 +1,6 @@
+@import url('../global.css');
+
+.carousel-item {
+    width: 100%;
+    height: auto;
+}
